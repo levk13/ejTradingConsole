@@ -1,0 +1,5 @@
+Symbol: AIZ Days Low139.88999938964844 Current: 142.3
+Symbol: JPM Days Low151.5500030517578 Current: 153.71
+Symbol: CMC Days Low29.75 Current: 30.8
+Symbol: DLTR Days Low113.38999938964844 Current: 115.93
+Symbol: HZO Days Low48.0 Current: 49.89
